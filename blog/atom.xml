@@ -10,8 +10,8 @@ layout: feed
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://yingjoy.github.io/blog</id>
  <author>
-   <name>Hank Quinlan</name>
-   <email>hankquinlanhub@gmail.com</email>
+   <name>Zhuoying Li</name>
+   <email>zhuoyingapply@gmail.com</email>
  </author>
 
  {% for post in site.posts %}
